@@ -8,8 +8,8 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
 ### The challenge
 
@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Ibhassan01](https://github.com/Ibhassan01/faq-accordion)
+- Live Site URL: [https://faq-accordion-phi-three.vercel.app/](https://faq-accordion-phi-three.vercel.app/)
 
 ### Built with
 
